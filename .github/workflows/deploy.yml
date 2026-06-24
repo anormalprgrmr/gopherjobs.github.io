@@ -67,6 +67,27 @@ jobs:
           git commit -m "Update static HTML from job scan"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git view --force
 
+      - name: Commit CSV dataset to dataset branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if branch exists
+          if git show-ref --quiet refs/heads/dataset; then
+            git checkout dataset
+          else
+            git checkout --orphan dataset
+            git rm -rf .
+          fi
+          
+          echo -e "bin/\nstatic/" > .gitignore
+          
+          cp -r njob_results/* .
+          
+          git add .
+          git commit -m "Update CSV dataset from job scan"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git dataset --force
+
       - name: list
         run: ls .
 
