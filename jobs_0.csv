@@ -1,0 +1,1005 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-3871225288,linkedin,https://www.linkedin.com/jobs/view/3871225288,,Software Engineer Golang (all genders),adesso SE,"Berlin, Berlin, Germany",2026-06-24,fulltime,,,,,,,entry level,,,[],"Wir gehören zu den Top\-Adressen in der IT\-Welt und fokussieren uns auf die Optimierung der Kerngeschäfts­prozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT\-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.
+   
+
+  
+
+**DEINE ROLLE**
+* Technische Konzeption: Du übernimmst die technische Konzeption, Entwicklung und Implementierung von Software\-Anwendungen in einem agilen Projektumfeld.
+* Softwareentwicklung: Du entwickelst hochwertige, robuste und skalierbare Softwarelösungen unter Verwendung von Golang.
+* Anforderungen dokumentieren: Du dokumentierst und erweiterst fachlich sowie technisch die kundenspezifischen Anforderungen.
+* Agile Methoden anwenden: Du nutzt agile Entwicklungsmethoden und modernste Technologie im Entwicklungsbereich.
+
+
+**DEIN PROFIL**
+* IT\-Hintergrund: Du besitzt einen IT\-Hintergrund und erste Berufserfahrung.
+* Golang\-Entwicklung: Du hast fundierte Erfahrung in der Golang\-Entwicklung mit verschiedenen Datenbanken und Frameworks in einem agilen Projektumfeld gesammelt.
+* Lernfreude: Du punktest mit großer Lernfreude und \-bereitschaft sowie mit deiner offenen, kommunikativen und hilfsbereiten Art.
+* Leidenschaft: Deine Leidenschaft für das Programmieren und Innovationen sowie deine Lust, dich in neue Themen reinzudenken und neue Technologien, Tools, etc. zu entdecken, zeichnen dich aus.
+* KI Kompetenz: Du setzt KI\-Tools in deinem Fachgebiet souverän ein, bewertest die Ergebnisse kritisch und unterstützt Kunden und adessi dabei, Potenziale von KI zu nutzen.
+* Sprachkenntnisse: Sehr gute Deutsch\- und gute Englischkenntnisse.
+
+
+ Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir\-Gefühl. Für das es sogar ein Wort gibt: adessi.
+   
+
+  
+
+ Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home\-Office. So belegen wir zum wiederholten Mal den 1\. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.",IT Services and IT Consulting,https://de.linkedin.com/company/adesso-se,,,,,,
+li-4432543507,linkedin,https://www.linkedin.com/jobs/view/4432543507,,Senior Golang Engineer,KDR Talent Solutions,"Berlin, Germany",2026-06-24,fulltime,,,,,,,mid-senior level,,,[],"**Senior Backend Engineer (Golang)** 
+
+
+
+
+  
+
+
+
+
+
+ 📍 Berlin, Germany (Hybrid – 2 days per week onsite)
+ 
+
+
+
+  
+
+
+
+
+
+ We are currently partnering exclusively with a well\-established technology company in Berlin that is looking to hire a Senior Backend Engineer to join one of their core engineering teams.
+ 
+
+
+
+  
+
+
+
+
+
+ This is an opportunity to work on large\-scale backend systems that support millions of customer interactions, processing significant volumes of data and transactions every day. You'll be joining a highly collaborative engineering environment where developers are trusted to take ownership, contribute to architectural decisions, and help shape the future of the platform.
+ 
+
+
+
+  
+
+
+
+
+
+**What you'll be doing** 
+
+
+
+* Designing, building and maintaining backend services using Golang
+* Developing scalable microservices and distributed systems
+* Working on high\-traffic production platforms
+* Contributing to architecture and technical design discussions
+* Improving performance, reliability and scalability across core systems
+* Supporting CI/CD and engineering best practices
+* Collaborating closely with Product, Engineering and Platform teams
+* Investigating and resolving complex production issues
+
+
+
+  
+
+
+
+
+
+**Tech Stack:** 
+
+
+
+* Golang
+* Kubernetes \& Docker
+* MongoDB
+* GraphQL
+* gRPC
+* Microservices
+* CI/CD
+
+
+
+  
+
+
+
+
+
+**What they're looking for:** 
+
+
+
+* Strong commercial experience with Golang
+* Experience building and supporting production\-grade backend systems
+* Good understanding of distributed architectures and microservices
+* Cloud experience, ideally AWS
+* Experience with PostgreSQL and API development
+* Exposure to GraphQL and/or gRPC
+* Strong troubleshooting and problem\-solving capability
+* Someone who enjoys getting hands\-on, understanding existing systems, and driving improvements
+
+
+
+  
+
+
+
+
+
+**Why join?** 
+
+
+
+* Modern engineering environment
+* Meaningful technical ownership
+* Complex scalability and performance challenges
+* Strong engineering culture
+* Opportunity to influence architecture and technical direction
+* Hybrid working model in Berlin
+* Long\-term career growth within a successful technology business
+
+
+
+  
+
+
+
+
+
+ If you're an experienced Golang Engineer looking for your next challenge in Berlin, this could be the role for you! Please apply today to learn more.",IT Services and IT Consulting,https://uk.linkedin.com/company/kdrtalent,,,,,,
+li-4429891074,linkedin,https://www.linkedin.com/jobs/view/4429891074,,(Senior) Developer Backend (Golang),DATATRONiQ,"Berlin, Berlin, Germany",2026-06-24,fulltime,,,,,,,associate,,,[],"🚀 DATATRONiQ stands out as a pioneering deep\-tech 💪 startup for the industrial IoT in Germany. Our platform offers a one\-stop solution for companies to monitor and optimize their assets and processes. Our device management and data acquisition technology generate high\-quality data for our AI models deployed on edge. We believe in an open and collaborative environment to foster the best ideas from the most creative people, and we want to talk to you!
+ 
+
+
+  
+
+
+**As a (senior) backend developer** 
+ at DATATRONiQ, you will have the opportunity to work on a cutting\-edge IoT platform that utilizes AI to analyze data from industrial processes. Our platform uses machine learning algorithms to detect anomalies and identify patterns that may indicate potential issues with equipment and continuously monitors the quality of parts. Our platform also provides IIoT device management and software connectors for data acquisition from a very broad range of manufacturing machines and control systems.
+ 
+
+
+  
+
+
+ We are looking for multiple skilled Golang developers (or those who want to become one) to join our team. You will be responsible for developing and maintaining a wide variety of microservices written in Golang, which run on Kubernetes and communicate with a handful of Cloud\-native applications and services. You should have experience working with Golang, as well as a strong understanding of backend development; ideally you have experience with other toolchains and are also interested in working with AI and machine learning technologies, as well as data analysis and signal processing.
+ 
+
+
+  
+
+
+ At DATATRONiQ, you will be a key member of our engineering team and start contributing from day one. We continuously improve our development processes and take pride in our commitment to delivering high\-quality products. To do so, we make a real effort to rank at the top of the Joel Test for engineering teams. We aim to create a healthy and productive engineering environment and encourage collaboration between remote and on\-site team members. We do regular pair\-programming sessions, and on fridays we meet (online and offline) to finish the week with a mix of hackathons and show and tell.
+ 
+
+
+  
+
+ Tasks
+   
+
+  
+* Work in an agile environment to ship microservices and Kubernetes operators; be curious about new tech
+  
+* Implement new features for multiple applications and services using Golang and continuously keep all projects up\-to\-date
+  
+* Advocate for high\-quality code and appreciate good tests/coverage; occasionally write or improve tooling to further automate manual steps
+  
+* Actively contribute to decision\-making processes how we build new features and participate in shaping the product roadmap
+  
+
+
+  
+
+ Requirements
+   
+
+  
+* Completed studies in the field of computer science, mathematics, physics or similar
+  
+* Good programming skills and solid knowledge of agile software development
+  
+* Previous expertise in working with Golang, testing, and CI/CD, as well as other programming languages
+  
+* Openness for new technologies
+  
+* Great written and spoken English; German is a plus
+  
+* A high level of commitment, initiative and enthusiasm for IT
+  
+* A bonus, but not mandatory: familiarity with technologies such as Python, Typescript, Docker/Kubernetes, e2e testing, and Linux
+  
+
+
+  
+
+ Benefits
+   
+
+  
+* Participation in a young company in a future\-oriented industry
+  
+* Implementation of artificial intelligence in the context of industrial IoT
+  
+* Attractive workplace with innovative technology and modern equipment; hybrid work is also possible
+  
+* Exciting challenges and recognition for top performances
+  
+* A company culture where honesty, professionalism, and integrity run deep
+  
+* Flat hierarchies, quick decision\-making processes, and an agile company structure
+  
+* Budget for personal and professional development as well as for equipment of your choice
+  
+* Snacks, beverages, subscription for Spotify, public transport ticket
+  
+* Competitive salary commensurate with experience and market standards
+  
+
+
+  
+
+
+**Did we spark your interest?** 
+
+
+
+  
+
+
+ This is a unique and exciting opportunity to work on a product that has the potential to make a significant impact in the industrial manufacturing sector.
+   
+
+  
+
+ DATATRONiQ platform is built with TypeScript, Golang, Python, Scala, C\+\+ and deployed as microservices on various Cloud environments and on\-prem virtual machines using Kubernetes.
+ 
+
+
+  
+
+
+ If you are passionate about using your skills to solve challenging problems and make a difference, we really would like to talk to you.
+   
+
+  
+
+ We are looking forward to your application!
+ 
+
+
+  
+
+
+**We ask recruitment agencies and headhunters to refrain from contacting us.**",IT Services and IT Consulting,https://de.linkedin.com/company/datatroniq,,,,,,
+li-4381726177,linkedin,https://www.linkedin.com/jobs/view/4381726177,,Senior Backend Engineer (Golang) - Balance Management,SumUp,"Berlin, Berlin, Germany",2026-06-24,fulltime,,,,,,,mid-senior level,,,[],"At SumUp, the
+ **Global Bank team** 
+ builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.
+   
+
+  
+
+ The
+ **Balance Management Squad** 
+ sits at the core of the
+ **Global Bank** 
+ Platform. Right now, our team is completing a major milestone: consolidating and modernizing our balance management system in Europe. The next big step is creating a global transaction history service; a single, shared platform used by all regions to give merchants consistent and transparent views of their financial activity.
+   
+
+  
+
+ As a
+ **(Senior)** 
+**Backend Engineer** 
+ , you’ll help modernize existing systems while balancing innovation with stability, collaborate with teams across regions, and build reliable services that manage diverse markets with different regulations.
+   
+
+  
+
+ If you enjoy solving complex problems on high\-load systems, are curious about banking, and are looking for a team that tackles challenges head\-on, we’d love to hear from you.
+   
+
+  
+
+**What You’ll Do**
+* Build and evolve the SumUp’s core banking services that powers ledger operations and transactions, transforming our regional systems into a unified, scalable global platform.
+* Tackle complex distributed systems challenges, ensuring resilient services that continue to perform under high transaction volumes.
+* Support modernization initiatives by improving observability, adding test coverage, refactoring code for long\-term maintainability, and gradually introducing new architectural patterns without disrupting live banking operations.
+* Contribute to key architectural decisions \- build ledger and transaction history systems from the ground up, ensuring a globally scalable banking solution for our clients.
+* Collaborate with teams across Risk, Treasury, Finance, and Infrastructure to ensure smooth, compliant, and reliable global operations
+* Take ownership from design to production, running the services you build, monitoring their performance, and continuously improving how we deliver high\-quality software at scale.
+
+
+**You’ll be great for this role if**
+* You have solid backend experience building reliable, high\-volume services and you think carefully about system design, APIs, data modeling, and how services interact.
+* You are proficient in Golang and comfortable learning and working with other languages as needed, e.g. Kotlin or Elixir.
+* You write maintainable, well\-tested code, follow CI/CD best practices, and take responsibility for the software you build from development to production.
+* You’re comfortable building, deploying, and running services in cloud environments like AWS using Docker and Kubernetes.
+* You’re eager to learn about relational databases that perform well under load and maintain data consistency.
+* You are a collaborator who enjoys working across regions, communicating clearly, exchanging feedback effectively, and making thoughtful technical decisions together.
+* You have a curiosity for building reliable financial services and banking domain
+
+
+**It’s a plus if you have**
+* Knowledge of Elixir \- some of our legacy services are written in Elixir, and while it's not essential, it would be useful if you've worked with it before
+* Deeper PostgreSQL experience \- we rely heavily on Postgres, so if you've done performance tuning, complex queries, or schema design, that's a plus
+* Experience with event streaming platforms (Kafka preferred) and modern observability stacks (Grafana, Honeycomb, etc.)
+
+
+**Why you should join SumUp**
+* Be part of a company that values diversity and celebrates unique perspectives.
+* Work with a global team of skilled professionals in an environment that fosters collaboration, learning, and growth.
+* Be part of a global tribe building a banking solution from the ground up and delivering impactful solutions to the real\-life problems of millions of SumUp merchants all over the world
+* Career growth and learning opportunities: We invest in your development through regular training, mentorship programs, SumUp University leadership cohort and a yearly learning budget (2,000 EUR)
+* Sabbatical program for tenured SumUppers
+* Join a global team where you belong: Check out our D\&I Initiatives and Employee Resource Groups such as Pride Club, SumAfro, Neurodiversity, Grupos Mais, Women in Tech, and more
+* Health \& wellness benefits: in\-house fitness classes, gym in the office, subsidized Urban Sports Club and available psychotherapy sessions
+* A lot of other benefits such as Subsidized Public Transport Card, Kita placement assistance, Pension Scheme, Language Learning platform/courses etc.
+* Enrollment onto our virtual stock ownership program \- you will own a stake in SumUp’s future success
+
+
+**About SumUp**
+ Be empowered to do more that matters.
+   
+
+  
+
+ At SumUp, we're on a mission to empower small businesses across the globe by providing a vast set of simple and affordable business tools to help them start, run, and grow their businesses. Today, over 4 million businesses in 36 markets rely on SumUp as their financial partner to manage payments, finance and customer relationships.
+   
+
+  
+
+ Our commitment to small businesses is reflected in our diverse team of over 3,000 SumUppers from over 90 nationalities, united by global collaboration and an innovative mindset. Our core values lay the foundation for who we are and what we stand for, shaping our work culture and driving our success. We foster an inclusivity and continuous learning culture, providing a safe space for personal and professional growth. Our differences make us unique and strong as we strive to create an environment where everyone belongs and feels supported, no matter how they identify.
+   
+
+  
+
+*SumUp is proud to be an Equal Employment Opportunity employer, actively seeking and embracing diversity in our workforce. We don't make hiring or employment decisions based on race, colour, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable laws or prohibited by company policy. Our commitment extends beyond recruitment to creating a safe and respectful workplace where harassment of any form is strictly prohibited.*
+*Explore career opportunities with us and join a team driven by collaboration, innovation, and a shared vision of creating a world where everyone can build a thriving business. Discover more about our vibrant and inclusive work culture and how we work on our careers website, and follow our journey on LinkedIn and Instagram.*
+**Job Application Tip**
+ We recognise that candidates feel they need to meet 100% of the job criteria in order to apply for a job. Please note that this is only a guide. If you don’t tick every box, it’s ok too because it means you have room to learn and develop your career at SumUp.",Financial Services,https://uk.linkedin.com/company/sumup,,,,,,
+li-4429824685,linkedin,https://www.linkedin.com/jobs/view/4429824685,,"Senior Software Engineer (all genders) | Berlin, hybrid or remote",Aroundhome,"Berlin, Berlin, Germany",2026-06-24,fulltime,,,,,,,associate,,,jobs@aroundhome.de,"**Responsibilities**
+
+ At Aroundhome, we connect homeowners with trusted local partners — and you can help us make that experience even better.
+   
+
+  
+
+ We’re looking for a
+ **Senior Engineer** 
+ to join one of our cross\-functional, domain teams focused on the partner journey.
+   
+
+  
+
+ In this role, you’ll shape how new partners experience Aroundhome from the very beginning. You will drive optimization by building a frictionless, digital journey, bridging the gap between initial registration and active partnership.
+   
+
+  
+
+ You’ll join a distributed, people\-first engineering culture that values curiosity, autonomy, and continuous learning — and where your ideas directly impact both our users and the evolution of our technology and platform.
+   
+
+  
+
+  
+
+
+
+
+* Play a leading role in designing, building, and evolving our web\-based applications in an AI\-assisted environment (that support our business model)
+* You’ll directly contribute to modernizing our architecture, stay on top of the latest development trends, and drive innovation by assessing and implementing new technologies and features. Contribute to and drive the modernization of our architecture, evaluate and implement new technologies and features, and help shape our technical direction
+* Collaborate closely with product managers and your engineering colleagues, taking initiative and driving overall team exchange to deliver features that solve real pain points of our users
+* Mentor and empower teammates through pair programming, code reviews, and knowledge sharing, contributing to a culture of learning and growth
+* Take ownership of the entire development lifecycle — from testing to go\-live. Eliminate potential blind spots by implementing and improving observability best practices and actionable alerting
+* Care about long\-term stability and maintainability, knowing that development does not end after the release
+* Champion quality and maintainability through clean, test\-driven code and a mindset of continuous improvement
+
+
+
+  
+
+  
+
+
+
+
+**Skills**
+
+
+
+
+* You are a very experienced senior\-level engineer with deep knowledge of Go and/or Ruby who stays up to date on new technologies
+* You share a product engineering mindset, easily understand diverse business needs, and turn them into valuable features for our users
+* You have expert knowledge of microservice architectures and experience working in cloud environments within agile, cross\-functional teams. However, you don’t shy away from migrating our legacy services
+* You strive for quality and apply clean code principles not only when implementing new features, but also when modernizing existing services
+* You have a strong getting\-things\-done mindset and you always strive to improve — whether it's the code, the team, or yourself — and therefore communicate and collaborate proactively
+* You are an absolute team player, enjoy sharing your knowledge and experience with others, and appreciate an open feedback culture
+* You leverage AI to accelerate understanding and development of your codebase, uncover business insights, and drive overall productivity gains
+
+
+
+  
+
+  
+
+
+
+
+**What we offer**
+
+**Hybrid Work // Stay flexible:** 
+ Decide freely whether you want to work from our office in Berlin, from home throughout Germany, or fully remote from Portugal. Additionally, we offer you the possibility to work up to 30 days per year from selected EU countries.
+   
+
+  
+
+**Room to grow // Stay curious:** 
+ In regular/annual feedback meetings, you design your own personal development path together with your team lead. In addition, we offer monthly Tech Talks, an annual training budget, as well as great workshops to seek new input and specific training for your personal development.
+   
+
+  
+
+**Mental \& physical health // Stay healthy \& active:** 
+ We care about your well\-being and support your health with a discounted membership at Urban Sports Club. In addition, our cooperation partner “Fürstenberg Institute” is available to you and your family members with advice and support when it comes to mental health \& coaching.
+   
+
+  
+
+**Taking responsibility // We \#care:** 
+ We care for our planet and the people who are living on it. To make our world a little bit better, our ESG Team (Environmental, Social \& Governance) promotes our awareness for environmentally friendly behavior. In addition, we work with JobRad, offer a discounted BVG ticket, and actively support social projects in Berlin at our annual Social Day to give something back.
+   
+
+  
+
+**Teamspirit // Stay connected:** 
+ What drives us is our sense of community. That's why we celebrate our Company Day once a month in our office at Potsdamer Platz, where everyone gets together in person. In addition to a comprehensive update of our C\-Board, the main focus is on togetherness and the exchange of ideas over lunch and dinner together.
+   
+
+  
+
+**Transparency // We want to be transparent \- also when it comes to salary:** 
+ If you have any questions about a possible salary range for this position, feel free to send us an email at jobs@aroundhome.de. We will get back to you as soon as possible.
+   
+
+  
+
+
+
+
+**About us**
+
+
+
+
+
+ Aroundhome is a recommendation platform for houseowners.
+ 
+
+
+
+ With a comprehensive range of information and services relating to their own home and a team of 250 employees, Aroundhome supports houseowners who live in their own property in carrying out major investment projects relating to their own home \- from selling and investing to maintaining and repairing their property.
+ 
+
+
+
+ Our mission: Your property is more than just a house. It is a home and a life project. Every change brings insecurities. Because every decision can be a wrong one \- and expensive. We make it possible to make better decisions with good recommendations and to realize all large projects around the own home more stress\-free. With orientation, individual advice and the mediation of suitable partners for all\-round successful projects.
+ 
+
+
+
+ Aroundhome \- Because it's their home.
+ 
+
+
+
+ Together with you, we want Aroundhome to develop into the one recommendation platform for houseowners and are looking forward to welcoming you to our team.","Technology, Information and Internet",https://de.linkedin.com/company/aroundhome,,,,,,
+li-4422484818,linkedin,https://www.linkedin.com/jobs/view/4422484818,,Senior Software Engineer (mwd) Go and Data Platform,Michael Page,"Berlin, Berlin, Germany",2026-06-24,fulltime,,,,,,,mid-senior level,,,[],"* Build highly scalable data and personalization platforms
+* Collaborate closely with Data Science and AI teams
+
+
+**Firmenprofil**
+ Our client is a leading international media and technology company headquartered in Berlin. Millions of users consume digital content every day through some of the most recognized media and news brands in Europe.
+   
+
+  
+
+ Combining the reach and stability of an established market leader with the agility of a technology\-driven organization, the company continuously invests in innovation, data\-driven products, and artificial intelligence to shape the future of digital journalism.
+   
+
+  
+
+**Aufgabengebiet**
+* Design, develop, and operate scalable systems for personalized content delivery
+* Build and maintain complex distributed backend and frontend applications
+* Integrate machine learning models into production environments
+* Lead end\-to\-end feature development from architecture and design to deployment and operation
+* Drive technical excellence through best practices in software engineering, testing, and DevOps automation
+* Contribute to architecture decisions focused on scalability, reliability, and maintainability
+* Ensure high levels of observability, performance, and fault tolerance
+* Collaborate closely with Software Engineers, Data Scientists, Product Managers, and Editorial Teams
+* Support continuous improvement of cloud\-native platforms and engineering processes
+
+
+**Anforderungsprofil**
+* Extensive experience building and maintaining complex distributed systems
+* Strong proficiency in Go (Golang)
+* Solid Python skills for data processing, automation, or AI integrations
+* Deep knowledge of AWS services such as Lambda, ECS/Fargate, DynamoDB, and S3
+* Experience designing and operating cloud\-native architectures
+* Strong experience with TypeScript and React
+* Solid understanding of microservices, event\-driven architectures, and API design
+* Proven expertise in building scalable, observable, and resilient systems
+* Experience with CI/CD pipelines, Infrastructure as Code, and automated testing
+
+
+**What's On Offer**
+* 30 vacation days \& additional 10 days per year working remotely from abroad
+* Comprehensive learning and development opportunities, including conferences, workshops, and dedicated training budgets
+* Premium hardware and office equipment for both office and remote work
+* Free breakfast and lunch provided on\-site
+* Relocation and visa support
+* Flexible working hours
+* Permanent full\-time or part\-time employment
+* Modern office in the heart of Berlin \- office first policy
+* Opportunity to work on products used by millions of readers every day
+
+
+**Quote job ref: JN\-062026\-7031006**",Staffing and Recruiting,https://uk.linkedin.com/company/michael-page,,,,,,
+li-4431230353,linkedin,https://www.linkedin.com/jobs/view/4431230353,,Senior Backend Developer – Go & Kubernetes (Berlin),DATATRONiQ,"Berlin, Berlin, Germany",2026-06-23,fulltime,,,,,,,mid-senior level,,,work@datatroniq.com,"**DATATRONiQ** 
+ ist ein Deep\-Tech\-Startup aus Deutschland für Industrial IoT und Edge AI. Als Senior Backend Developer baust Du die Go\-Services für unsere Plattform. Sie reichen vom Datenstrom aus der Produktion bis zur Inferenz am Edge. Dein Code nimmt Telemetrie aus laufenden Maschinenparks auf, stößt ML\-Pipelines an und liefert Erkenntnisse an das Dashboard. Alles läuft auf Kubernetes, on\-prem wie in der Cloud. Wenn Du Software gerne von der ersten Idee bis zum Rollout verantwortest, dann melde Dich gerne bei uns.
+ 
+
+
+
+  
+
+
+
+
+
+**Über die Stelle** 
+
+
+
+
+  
+
+
+
+
+
+ Unsere Plattform sammelt Telemetrie aus Sensoren und Steuerungen moderner Maschinenparks. Dahinter laufen Go\-Microservices, die Daten in Echtzeit aufbereiten, Anomalie\- und Qualitätsmodelle füttern und Ergebnisse an Frontend und Kunden ausspielen. Ein Teil der Services läuft im Edge\-Cluster beim Kunden, ein anderer in der Cloud.
+ 
+
+
+
+  
+
+
+
+
+
+**Dein Stack:** 
+ Go im Kern, daneben sehr hohe Testabdeckung und die gängigen Open\-Source\-Bausteine. Dazu eigene Kubernetes\-Operatoren, Helm Deployments und Observability mit Prometheus. Du schreibst neue Services, erweiterst bestehende, baust und wartest unsere Kubernetes\-Operatoren und bringst unsere Plattform Stück für Stück voran.
+ 
+
+
+
+  
+
+
+
+
+
+ Wir arbeiten in einem kleinen, eng abgestimmten Team. Code Reviews und Pair Programming gehören fest zum Alltag. Freitags zeigen wir uns interessante Funde im Web und neue Tools in unseren Show\-and\-Tell\-Sessions. Als Backend\-Entwickler verantwortest Du den Kern der Plattform: Frontend, Data Science und DevOps setzen täglich auf Deinen Services auf.
+ 
+
+
+
+  
+
+
+
+
+
+**Was sind Deine Aufgaben?** 
+
+
+
+
+  
+
+
+
+
+* Du entwickelst und deployst Go\-Microservices, die Industrie\-Telemetrie aufnehmen, aufbereiten und weiterverteilen.
+* Du pflegst unsere Kubernetes\-Operators und entwickelst Neue – vom API\-Design über Reconciliation\-Loops bis zum produktiven Rollout.
+* Du verantwortest Stabilität und Performance – Tests, Benchmarks, Monitoring und Tracing sind Teil Deiner Kernkompetenzen.
+* Du arbeitest mit Frontend, ML und DevOps zusammen – API\-Specs, Interface\-Versionen und gemeinsame Roadmap\-Entscheidungen gehen über Deinen Tisch.
+* Du automatisierst manuelle Prozesse – Tooling, Skripte, CI\-Pipelines, wo immer Du Potenzial siehst und weißt, wie es besser geht.
+* Du verantwortest technische Entscheidungen mit – Architektur, Libraries, Build\-Tooling – und bringst neue Entwicklungspraktiken ins Team.
+
+
+
+  
+
+
+
+
+
+**Was solltest Du mitbringen?** 
+
+
+
+
+  
+
+
+
+
+* Mindestens drei Jahre praktische Go\-Erfahrung in Service\-Architekturen; weitere Sprachen sind ein Plus.
+* Sicher in Kubernetes: eigene Services und Operatoren deployen, Logs und Metriken lesen, Unterstützung bei post\-mortem\-Analysen.
+* Professionelles API\-Design – idiomatisches REST, Protobuf, Dokumentation, Versionierung, Backward Compatibility.
+* Gespür für Softwaredesign – wann eine Queue hilft, wann ein Cache schadet, wann beides weg muss.
+* Sehr gute Englischkenntnisse in Wort und Schrift.
+* Bonus:
+ 
+ Erfahrung mit Zeitreihen, Stream Processing oder IoT Protokollen (z.B. OPC\-UA, MQTT).
+* Bonus: Neugier auf KI/ML im Service\-Kontext – Modellinferenz, Retrieval, Feature\-Pipelines.
+
+
+
+  
+
+
+
+
+
+**Was erwartet Dich?** 
+
+
+
+
+  
+
+
+
+
+* Echte End\-to\-End\-Verantwortung: vom API\-Design über Implementierung bis zum Betrieb auf Kubernetes.
+* Das Team entscheidet Architektur, Tooling und Testabdeckung selbst.
+* Agentische Werkzeuge im Alltag: Codex, Claude Code und neue Entwicklungspraktiken – wir probieren früh aus und nutzen, was funktioniert.
+* Überwiegend vor Ort in
+ **Stuttgart, Ulm oder Berlin** 
+ – Industrial\-IoT\-Projekte für Kunden weltweit, vom mittelständischen Fertiger bis zum DAX\-Konzern.
+
+
+
+  
+
+
+
+
+
+**Haben wir Dein Interesse geweckt?** 
+
+
+
+
+  
+
+
+
+
+
+ Bei DATATRONiQ bist Du kein kleines Rädchen im Getriebe, Du gestaltest mit und bringst Deine Ideen ein. Du wirst die einzigartige Möglichkeit haben, an einem Produkt zu arbeiten, das das Potenzial hat, einen signifikaten Einfluss im industriellen Fertigungssektor zu haben. Wenn Du Deine Fähigkeiten einsetzen möchtest, um anspruchsvolle Probleme zu lösen und Du Dich aktiv bei uns einbringen willst, dann würden wir sehr gerne mit Dir sprechen!
+ 
+
+
+
+  
+
+
+
+
+
+ Nimm unter
+ **work@datatroniq.com** 
+ Kontakt zu uns auf. Wir freuen uns auf Deine Bewerbung!
+ 
+
+
+
+  
+
+
+
+
+
+*Wir bitten Personalvermittlungsagenturen und Headhunter, von einer Kontaktaufnahme abzusehen.*",IT Services and IT Consulting,https://de.linkedin.com/company/datatroniq,,,,,,
+li-4430227560,linkedin,https://www.linkedin.com/jobs/view/4430227560,,Senior Backend Engineer,Annapurna,"Berlin, Germany",,fulltime,,,,,,,mid-senior level,,,[],"Senior Backend Engineer
+ 
+
+
+
+**Location:** 
+ Berlin (Hybrid)
+ 
+
+
+
+**Salary:** 
+ Up to €100,000 \+ Benefits
+ 
+
+
+
+  
+
+
+
+
+
+ We’re partnered with a rapidly scaling entertainment technology business building one of Europe’s most widely used consumer platforms in the streaming and digital content space.
+ 
+
+
+
+  
+
+
+
+
+
+ As they continue expanding internationally, they’re looking for a Senior Backend Engineer to help scale backend systems, improve platform performance, and contribute to architectural decisions across a high\-volume product environment.
+ 
+
+
+
+  
+
+
+
+
+
+**They are especially interested in profiles with:** 
+
+
+
+* **Founding Engineer or founding experience**
+* **Strong business mindset and entrepreneurial mentality**
+* **Builders who have launched products or meaningful side projects**
+
+
+
+  
+
+
+
+
+
+ The Role
+ 
+
+
+* Build and scale backend services used by millions of users
+* Contribute to system design and architecture discussions
+* Develop reliable, performant, production\-grade code
+* Work closely with Product, Frontend, Mobile, and Data teams
+* Improve system observability, monitoring, and reliability
+* Help shape engineering best practices across the platform
+
+
+
+  
+
+
+
+
+
+ Experience They’re Looking For
+ 
+
+
+* Strong backend engineering experience with Golang, Python, or Node.js
+* Experience building APIs and distributed systems
+* Cloud infrastructure exposure (ideally GCP)
+* Knowledge of scalable system design principles
+* Experience with SQL and/or NoSQL databases
+* Familiarity with CI/CD and modern engineering tooling
+
+
+
+  
+
+
+
+
+
+ Why Join?
+ 
+
+
+* Product\-focused engineering culture
+* Complex technical challenges at genuine scale
+* Strong autonomy and ownership
+* Fast\-moving, entrepreneurial environment
+* Hybrid Berlin setup with an international team",Staffing and Recruiting,https://uk.linkedin.com/company/annapurna-recruitment,,,,,,
+li-4430235472,linkedin,https://www.linkedin.com/jobs/view/4430235472,,Staff Software Engineer,Annapurna,"Berlin, Germany",,fulltime,,,,,,,mid-senior level,,,[],"Staff Software Engineer
+ 
+
+
+
+**Location:** 
+ Berlin (Hybrid)
+ 
+
+
+
+**Salary:** 
+ Up to €110,000 \+ Benefits
+ 
+
+
+
+  
+
+
+
+
+
+ We’re partnering with one of Europe’s fastest\-growing entertainment technology platforms, operating at huge scale across streaming, discovery, and consumer content. With millions of monthly users globally and a product used daily across multiple markets, the business is continuing to invest heavily into its backend engineering function.
+ 
+
+
+
+  
+
+
+
+
+
+ They’re looking for a highly entrepreneurial Staff Software Engineer to help scale core backend systems while shaping technical direction across the platform. This role is ideal for someone who enjoys operating with autonomy, solving complex scaling challenges, and staying deeply hands\-on.
+ 
+
+
+
+  
+
+
+
+
+
+**The environment particularly suits engineers who have previously been:** 
+
+
+
+* **Founding Engineers**
+* **Startup CTOs or early technical hires**
+* **Builders of side projects/products at scale**
+* **Engineers who thrive in fast\-moving, high\-ownership cultures**
+
+
+
+  
+
+
+
+
+
+ What You’ll Be Doing
+ 
+
+
+* Designing and scaling backend services powering a high\-traffic consumer platform
+* Leading architecture decisions across distributed systems and APIs
+* Remaining hands\-on with coding, reviews, debugging, and optimisation
+* Partnering closely with Product, Data, Mobile, and Frontend teams
+* Driving engineering best practices across performance, reliability, and scalability
+* Mentoring engineers and helping elevate technical standards across the business
+
+
+
+  
+
+
+
+
+
+ Experience across several of the following is expected:
+ 
+
+
+* Golang, Python, or Node.js
+* REST APIs, GraphQL, event\-driven systems
+* GCP / cloud\-native infrastructure
+* Microservices or modular monolith architectures
+* SQL \& NoSQL databases
+* CI/CD and infrastructure\-as\-code
+* Monitoring, observability, and production systems
+
+
+
+  
+
+
+
+
+
+ Why Join?
+ 
+
+
+* High\-impact engineering role within a globally scaling platform
+* Strong product and engineering culture
+* Real ownership and influence on technical direction
+* Fast\-moving environment with startup mentality at scale
+* Hybrid working model based in Berlin",Staffing and Recruiting,https://uk.linkedin.com/company/annapurna-recruitment,,,,,,
+li-4432873603,linkedin,https://www.linkedin.com/jobs/view/4432873603,,Senior Software Engineer - Tetragon,Cisco,"Berlin, Berlin, Germany",,fulltime,,,,,,,mid-senior level,,,[],"**Meet the Team**
+ Isovalent, now part of Cisco, is the company founded by the creators of Cilium and eBPF. Cisco Isovalent builds open\-source software and enterprise solutions solving networking, security, and observability needs for modern cloud native infrastructure. The flagship technologies, Cilium and Tetragon, are the choice of numerous, industry\-leading, global organizations.
+   
+
+  
+
+ We believe in fostering an inclusive workplace where every team member feels valued, respected, and empowered. We believe that every employee contributes to our success, and we are committed to fostering an environment where everyone can thrive. We encourage candidates from all backgrounds to apply and join us in our mission to deliver exceptional products and services.
+   
+
+  
+
+**Your Impact**
+ Tetragon is a flexible, Kubernetes\-aware security tool, with real\-time observability and enforcement. Leveraging the power of eBPF, Tetragon offers a low\-overhead, in\-kernel solution that enhances security posture by monitoring system behaviors such as process executions, system call activities, network activity and file access events for both embedded systems and cloud native environments.
+   
+
+  
+
+ This role is for a Tetragon software engineer primarily with focus on developing the Tetragon agent, enablement for various embedded platforms and cloud environments, and developing Tetragon’s BPF programs that are loaded to detect and prevent malicious activity.
+   
+
+  
+
+**What You’ll Do**
+* Develop high\-quality Go (and eBPF) code for the Tetragon project
+* Be a part of the Tetragon, Cilium, and eBPF OSS communities
+* Design and implement advanced eBPF\-based runtime security mechanisms for embedded, Kubernetes and VM environments.
+* Enhance and improve Tetragon's network parser capabilities.
+* Tackle challenging technical problems
+* Participate in code reviews, architectural discussions, and contribute to technical documentation
+
+
+**Minimum Qualifications**
+* 6\+ years of experience in systems programming using C, Go or similar (Tetragon is primarily written in Go and C)
+* Experience in any of these areas for observability or security use cases: Linux systems programming, Linux kernel\-level development, or eBPF development
+
+
+**Preferred Qualifications**
+* Prior experience in security hardening and defense techniques
+* Prior experience in integrating or developing security frameworks for infrastructure\-level products
+* Prior experience in building control planes for security or similar u
+* Familiarity with CVE workflows, vulnerability data pipelines, or security event modeling.
+* Familiarity with Kubernetes and cloud\-native environments.
+* Contributions to open\-source security or networking projects (e.g., Tetragon, Cilium, Linux networking stack)
+* Good communication skills, both written and verbal
+
+
+ Why Cisco?
+   
+
+  
+
+ At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+   
+
+  
+
+ Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+   
+
+  
+
+ We are Cisco, and our power starts with you.",Software Development,https://www.linkedin.com/company/cisco,,,,,,

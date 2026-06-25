@@ -1,0 +1,94 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4430837741,linkedin,https://www.linkedin.com/jobs/view/4430837741,,Software Backend Engineer (Go/Rust),Xata.io,"Berlin, Berlin, Germany",2026-06-23,fulltime,,,,,,,mid-senior level,,,[],"**About Xata**
+ Xata builds Postgres infrastructure for agentic workloads. We let teams spin up isolated database branches in seconds so every AI agent (and every developer) can safely experiment, test, and run workflows against production\-like data without putting production at risk.
+   
+
+  
+
+ We've raised $35M (Series A led by Index Ventures and Redpoint), backed by founders like Guillermo Rauch (Vercel), Shay Banon (Elastic), and Neha Narkhede (Confluent), with years of runway ahead.
+   
+
+  
+
+ We're a remote\-first team focused on making branching, data movement, and lifecycle management feel fast and dependable for modern software development.
+   
+
+  
+
+**What You'll Be Doing**
+ You will join our Backend team and build the core services and infrastructure that power the Xata platform.
+   
+
+  
+
+**Backend squads: Data Plane \& Control Plane**
+ Our Backend team is organized into two (fluid) squads:
+   
+
+  
+
+* Data Plane: the core runtime infrastructure that makes Postgres branches real: storage, replication/data movement, provisioning, orchestration, performance, and reliability.
+* Control Plane: the services and public APIs that manage and expose that infrastructure: user\-facing product features, workflows/coordination, and close collaboration with Frontend.
+
+
+ Depending on team needs and your strengths, you may work primarily in one squad.
+   
+
+  
+
+**Our Stack**
+* Go
+* PostgreSQL
+* Kubernetes
+* AWS \& GCP
+
+
+**In this role, you will**
+* Design and build core platform capabilities for our Postgres infrastructure.
+* Develop backend services and APIs that power our hosted and self\-hosted offerings.
+* Work on database branching, storage systems, replication, lifecycle management, and orchestration.
+* Own projects end\-to\-end: identify opportunities, propose solutions, implement, deploy, and operate.
+* Contribute to our growing portfolio of open\-source projects, including pgroll, pgstream, and other components of the Xata platform.
+* Collaborate closely with engineers across backend, frontend, product, and platform teams.
+* Participate in architecture discussions and technical decision\-making.
+* Participate in on\-call rotations and help maintain a reliable platform.
+
+
+**About You**
+* You are highly self\-directed and thrive in environments with a high degree of ownership. You identify opportunities, propose solutions, and drive projects from idea to production.
+* Significant experience building backend, infrastructure, or distributed systems software in production environments.
+* Strong programming skills in Go, C/C\+\+, Java, or similar languages.
+* Strong understanding of distributed systems concepts (reliability, consistency, concurrency, failure modes).
+* Experience with cloud infrastructure and technologies such as Kubernetes and Docker.
+* Familiarity with PostgreSQL and database systems.
+* Strong written communication skills and the ability to work effectively in a remote environment.
+
+
+**Nice to Have**
+* Experience working on database technologies or PostgreSQL internals.
+* Experience building storage or infrastructure systems.
+* Experience developing with Rust.
+* Experience contributing to open\-source projects.
+* Experience building developer tools or platform products.
+
+
+**Working at Xata**
+* We're stable. We've raised $35M and have years of runway.
+* We're remote\-first and have more than a decade of experience building distributed teams.
+* We work asynchronously and keep meetings to a minimum.
+* You'll have significant autonomy, ownership, and the opportunity to shape both the product and the company.
+* We're open source at our core and deeply care about our developer community.
+* Small team, large impact.
+* Opportunity to shape the future of Postgres infrastructure in the agent era.
+* Xata is female\-founded and has an all\-female board of directors.
+
+
+**What We Offer**
+* Competitive salary and equity.
+* 30 vacation days (plus local public holidays).
+* Comprehensive health insurance coverage.
+* Budget for a co\-working space of your choice.
+* Learning budget for conferences, courses, and books.
+* Flexibility, autonomy, and impact from day one.
+* Two company off\-sites per year, with partners and children welcome.
+* Significant opportunities for growth, leadership, and career development.",Software Development,https://www.linkedin.com/company/xataio,,,,,,
