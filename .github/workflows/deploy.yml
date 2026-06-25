@@ -82,7 +82,7 @@ jobs:
           
           echo -e "bin/\nstatic/" > .gitignore
           
-          cp -r job_results/* .
+          cp -r job_results/ .
           
           git add .
           git commit -m "Update CSV dataset from job scan"
