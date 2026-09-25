@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Senior Platform Engineer (f/m/x)</title>
+    <style>
+        body{font-family:Inter, Arial, Helvetica, sans-serif;background:#f7fafc;color:#111;margin:0;padding:20px}
+        .wrap{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 8px 24px rgba(12,20,30,0.06)}
+        h1{margin:0 0 8px 0}
+        .meta{color:#6b7280;font-size:13px;margin-bottom:8px}
+        .apply{display:inline-block;background:#0ea5a6;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none}
+        .back{display:inline-block;margin-left:12px;color:#374151;text-decoration:none}
+        .section{margin-top:16px}
+        .apply-section {display: flex;align-items: center;gap: 12px;}
+        .apply-section .apply {margin-left: auto;}
+
+         
+        .desc {line-height:1.6;font-size:15px;color:#111;}
+        .desc h1,.desc h2,.desc h3 {margin-top:20px;margin-bottom:10px;}
+        .desc pre{background:#f8fafc;padding:12px;border-radius:6px;border:1px solid #eef2f7;overflow-x:auto}
+        .desc code{background:#f1f5f9;padding:2px 4px;border-radius:4px}
+        .desc ul{padding-left:20px;margin:8px 0}
+        .desc p{margin:10px 0}
+
+        footer{margin-top:18px;text-align:center;color:#94a3b8}
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Senior Platform Engineer (f/m/x)</h1>
+    <div class="meta">Workist • Berlin, Berlin, Germany • fulltime</div>
+
+
+    <div class="section apply-section">
+        <a class="back" href="../list1.html">Back to Home</a>
+        <a class="apply" href="https://www.linkedin.com/jobs/view/4471439954" target="_blank" rel="noopener">Apply</a>
+    </div>
+
+    <div class="section">
+        <strong>Remote:</strong> Yes •
+        <strong>Relocation:</strong> No
+    </div>
+
+    <div class="section">
+        <h3>Description</h3>
+        <div class="desc"><p><strong>Your role with us</strong>
+As Senior Platform Engineer, you own the platform that Workist's AI agents run on: two clouds, the Kubernetes clusters for production, staging and ML workloads, and the path from merge request to production for every service we ship. You decide how this platform evolves, you keep it secure, observable and cost-efficient, and you extend it as the product grows. Most recently that meant an LLM gateway with region failover in front of our Azure OpenAI deployments, and performing GPU capacity planning for our own models.</p>
+<p>You set your own roadmap. Infrastructure at Workist is run as quarterly themes that you propose, make the case for and deliver, and roughly a third of your time goes to whatever the week brings: an incident, a pentest finding, a developer whose deployment is stuck and needs a second pair of eyes. You report to our CTO and are the voice of the platform in engineering decisions.</p>
+<p><strong>How We Build And Run Things</strong></p>
+<ul>
+<li>Everything runs on Kubernetes (Azure AKS), deployed with Helm and GitOps/Flux. All infrastructure is Terraform, applied through CI.</li>
+<li>CI/CD for every service on GitLab</li>
+<li>Managed services wherever they keep life simple: Postgres, OpenSearch, Redis, blob storage. We self-host only where it clearly pays off.</li>
+<li>Two clouds: Azure as our primary cloud, AWS for search and mail ingestion.</li>
+<li>Python everywhere: read and fix application code when that is where the fix belongs.</li>
+<li>Security is routine: automated scanning in every pipeline, regular external pentests, quarterly backup and disaster-recovery tests.</li>
+</ul>
+<p><strong>Your Responsibilities</strong>
+<strong>Own the platform</strong></p>
+<ul>
+<li>Own the architecture of our cloud environments across Azure and AWS: how subscriptions, networks, identities and environments are structured and stay isolated</li>
+<li>Design and deliver the platform capabilities the product needs next, from GPU capacity and an LLM gateway to new environments</li>
+<li>Set the standard for how we run Kubernetes and our managed data services: capacity planned ahead of growth, changes and upgrades rolled out safely and routinely, costs kept in check</li>
+</ul>
+<p><strong>Keep it quiet</strong></p>
+<ul>
+<li>Own the security posture end to end: least-privilege access, network isolation, findings from scanners and pentests, and a patch cadence that runs itself. Be a technical counterpart for audits and security questionnaires</li>
+<li>Own observability and alerting so that every alert is worth acting on, and lead the response to platform incidents including the follow-up fixes</li>
+<li>Run quarterly backup/restore and disaster-recovery tests, and close what they reveal</li>
+</ul>
+<p><strong>Make the team faster</strong></p>
+<ul>
+<li>Own the path from merge request to production: fast builds, reliable deployments, environments and access on demand</li>
+<li>Build the infrastructure behind our AI models: the LLM gateway, model deployments with region failover, GPU capacity, and whatever the next model needs</li>
+</ul>
+<p><strong>What this looked like recently</strong>
+: a Redis instance that silently dropped half of its new TCP connections and took the Celery workers down with it, region failover and load balancing for our Azure OpenAI deployments, moving our clusters from nginx ingress to the Kubernetes Gateway API.</p>
+<p><strong>Your profile</strong>
+We're looking for a professional team player who thrives in an environment where we share knowledge openly and push each other to deliver the best possible outcome. What you bring:</p>
+<ul>
+<li>You have run production infrastructure for years, ideally as the person who owned it end to end rather than one of many in a large ops team</li>
+<li>Kubernetes and Terraform in production: cluster upgrades, Helm, GitOps, and infrastructure as code for a whole cloud estate</li>
+<li>Production experience on Azure or AWS. Most of our estate is Azure, so an AWS background works if you are willing to go deep on Azure.</li>
+<li>Active Python skills: you read and debug a Python codebase and fix the application when the application is what is broken</li>
+<li>Security as a habit: you have run patch management, handled pentest findings and designed least-privilege access, and you prioritise findings pragmatically</li>
+<li>You write clearly: runbooks, incident write-ups and architecture decisions that others can follow</li>
+<li>Fluent English (engineering runs in English, so German is not required, though it can help in some customer and vendor conversations)</li>
+</ul>
+<p><strong>Our Benefits &amp; Culture</strong></p>
+<ul>
+<li>Worki Tower: Our office in the heart of the city over 8 floors invites you to work professionally at an ergonomic workplace and gives you space for your creativity. Our own Workist Lounge awaits you with a cozy atmosphere including coffee, drinks and a vitamin basket for short or longer creative breaks. Play table tennis, darts or Nintendo to clear your head and exchange ideas with other teams.</li>
+<li>Flexible working hours: Shape your working day with our flexible working hours. Have important appointments in the morning or evening? No problem, take advantage of work schedule flexibility.</li>
+<li>Office, Remote &amp; Workation: You decide yourself and have the flexible choice between an office or remote from your favorite location! We give you the freedom to work 4 weeks a year from abroad. Your state-of-the-art hardware will accompany you on your way!</li>
+<li>Come-Together: Let's play together - let's celebrate together! End the working day with a cool drink in our lounge or enjoy the time with your colleagues at the summer party, Christmas party or our quarterly team events.</li>
+<li>Stay fit &amp; healthy: Your fitness is important to us, so join our weekly RunningLunch and connect with your colleagues. Work-life balance and reduction of your stress level included.</li>
+<li>Stay mobile: Choose between Deutschlandticket Job and a JobRad allowance and be mobile throughout Berlin and/or Germany.</li>
+<li>Be social: For your heart's project or to get involved in social and volunteer work, we support you with 3 additional &quot;Social Days&quot;.</li>
+<li>Further your education - with a personal development budget of EUR 1,000.00 per year.</li>
+</ul>
+<p><strong>About Us</strong>
+Founded in 2019, Workist is a Berlin-based AI scale-up. We provide cutting-edge AI Agents designed specifically to optimize the inside sales teams of manufacturing and wholesale companies. By automating complex B2B quotation and ordering workflows, our AI eliminates manual data entry and allows sales teams to focus on revenue-generating tasks. With over 200 traditional businesses already using our platform to transform their sales floors, we are in a steady growth phase.</p>
+</div>
+    </div>
+
+    <footer>
+        <a href="https://github.com/milad-rasouli">Created by Milad Rasouli</a>
+    </footer>
+</div>
+
+<script>
+    (function(){
+        const el = document.getElementById('createdAt');
+        if(!el) return;
+        const ts = Number(el.textContent) * 1000;
+        const d = new Date(ts);
+        el.textContent = d.toLocaleString();
+    })();
+</script>
+</body>
+</html>
