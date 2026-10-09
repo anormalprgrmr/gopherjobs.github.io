@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Solution Architect – LLM Backend &amp; Vehicle Interface (w/m/d) - strong experience in Python, hands-on experience with streaming architectures and team lead - Immediate Joiners</title>
+    <style>
+        body{font-family:Inter, Arial, Helvetica, sans-serif;background:#f7fafc;color:#111;margin:0;padding:20px}
+        .wrap{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 8px 24px rgba(12,20,30,0.06)}
+        h1{margin:0 0 8px 0}
+        .meta{color:#6b7280;font-size:13px;margin-bottom:8px}
+        .apply{display:inline-block;background:#0ea5a6;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none}
+        .back{display:inline-block;margin-left:12px;color:#374151;text-decoration:none}
+        .section{margin-top:16px}
+        .apply-section {display: flex;align-items: center;gap: 12px;}
+        .apply-section .apply {margin-left: auto;}
+
+         
+        .desc {line-height:1.6;font-size:15px;color:#111;}
+        .desc h1,.desc h2,.desc h3 {margin-top:20px;margin-bottom:10px;}
+        .desc pre{background:#f8fafc;padding:12px;border-radius:6px;border:1px solid #eef2f7;overflow-x:auto}
+        .desc code{background:#f1f5f9;padding:2px 4px;border-radius:4px}
+        .desc ul{padding-left:20px;margin:8px 0}
+        .desc p{margin:10px 0}
+
+        footer{margin-top:18px;text-align:center;color:#94a3b8}
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Solution Architect – LLM Backend &amp; Vehicle Interface (w/m/d) - strong experience in Python, hands-on experience with streaming architectures and team lead - Immediate Joiners</h1>
+    <div class="meta">Luxoft Germany •  • fulltime</div>
+
+
+    <div class="section apply-section">
+        <a class="back" href="../list1.html">Back to Home</a>
+        <a class="apply" href="https://www.linkedin.com/jobs/view/4477143877" target="_blank" rel="noopener">Apply</a>
+    </div>
+
+    <div class="section">
+        <strong>Remote:</strong> Yes •
+        <strong>Relocation:</strong> No
+    </div>
+
+    <div class="section">
+        <h3>Description</h3>
+        <div class="desc"><p><strong>Project description</strong></p>
+<p>Our client is advancing its in-vehicle voice assistant into an intelligent, AI-powered companion. Large-language-model capabilities (Azure OpenAI / ChatGPT) have been running in production across vehicles with new E³-architecture models featuring enhanced voice functions from the factory. The customer backend is the cloud AI orchestration service behind this: it receives requests from the vehicle, classifies and routes them, orchestrates the LLM, tool services and specialised agents, and returns an answer or action to the car. DXC Luxoft serves as the end-to-end delivery partner, working in a joint product team with the client's engineers on the Azure platform (AKS, Azure OpenAI, AI Foundry, Managed Identity, Azure Monitor, Azure DevOps).</p>
+<p>This role owns the architecture of the backend service in series operation — a system that is already live across a large vehicle fleet and must stay available and backward-compatible while significant new capability is added: streaming across the full ASR → LLM → TTS chain, multi-intent handling, barge-in, a guardrails layer for deterministic vehicle-safe answers, agent routing, and new tool integrations. It also owns the vehicle ↔ backend interface contract: how the car talks to backend, across several vehicle generations at once.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Own and evolve the system architecture of the backend service: routing, business logic, orchestration, service decomposition, and the structural discipline (hexagonal architecture / ports and adapters) that keeps the platform changeable over a multi-year lifecycle.</li>
+<li>Define and govern the interface concept between vehicle, LLM, tool services and agents — the formal contract layer, its versioning strategy, and its evolution across vehicle generations.</li>
+<li>Architect the vehicle-facing integration: REST and gRPC/protobuf APIs, Viwi, AIDL toward the Android Automotive side, OAuth2 and mTLS, client IdP integration, and the client's internal host and telemetry interfaces.</li>
+<li>Design the streaming architecture — migrating AI service calls to streaming for responsiveness: incremental chat completion, real-time ASR transcription, TTS playback during synthesis; with buffering, connection management, error handling, and clean cancellation/interruption semantics (the foundation for barge-in).</li>
+<li>Own the LLM integration layer: prompt normalisation and pre-/post-processing, response format control for vehicle display, context preparation and dialogue management, and deterministic vehicle answers via system prompts and a guardrails engine — in a domain where a wrong answer is a safety and brand issue, not just a quality one.</li>
+<li>Design the agent orchestration mechanism that decides whether a request is answered by the LLM, an internal tool, or an external agent — including multi-intent handling and the routing model behind it (LangGraph).</li>
+<li>Architect tool and agent integrations: navigation with semantic location resolution, media/entertainment search, knowledge queries, calendar and mail, POI and places services, and vehicle data services.</li>
+<li>Define the RAG and persistence architecture: embedding strategy and lifecycle, vector store design (PostgreSQL/pgvector), schema design, tuning and migrations, and the division of responsibility between relational, document and vector stores.</li>
+<li>Produce scaling and load concepts for series operation, and the security, data-protection and compliance concept per automotive standards — including data minimisation in telemetry and traces.</li>
+<li>Own the observability architecture end to end: OpenTelemetry distributed tracing, LangFuse for prompt tracing and evaluation, Azure Monitor metrics and dashboards, alert thresholds and routing — so latency can be attributed per component and failure chains reconstructed.</li>
+<li>Make the architecture hold its operational targets: high availability in the 99.5% SLO range, incident resolution inside 24 hours, business-hours 2nd/3rd-level support, and structured version, release and deployment management.</li>
+<li>Guarantee backward compatibility for existing vehicle generations — vehicles from model year 2021 onward must keep working as new features ship.</li>
+<li>Set and enforce engineering standards with the development teams: API and interface review, Python toolchain and code quality gates, CI/CD pipeline design on Azure DevOps (including self-hosted runners) and GitHub, IaC module structure in Terraform/Terragrunt.</li>
+<li>Act as technical counterpart to the client's architects and to the vehicle, backend and UX teams; maintain architecture documentation in Confluence and work within the client's requirements management tooling; provide technical direction to the distributed development and AI Ops team in Scrum.</li>
+</ul>
+<p><strong>Skills</strong></p>
+<p><strong>Must have</strong></p>
+<ul>
+<li>8+ years in backend/distributed systems engineering, including 3+ years as architect or technical lead with end-to-end ownership of a production system's design.</li>
+<li>Expert Python: FastAPI, async, and hands-on experience with streaming architectures (SSE/WebSocket/gRPC streaming, back pressure, cancellation).</li>
+<li>Proven experience architecting LLM-based production systems — orchestration of tool- and agent-based workflows with LangChain / LangGraph or equivalent, prompt strategies, structured outputs, LLM constraint handling and guard-railing.</li>
+<li>Azure OpenAI Service or OpenAI API in production, including model version migration and the compatibility problems it creates.</li>
+<li>Strong API and interface design: REST and gRPC/protobuf, versioning and backward compatibility strategies, OAuth2 and mTLS for secure service-to-service communication.</li>
+<li>PostgreSQL at depth: schema design, tuning, migrations (Alembic); plus working experience with embeddings and vector search for RAG (pgvector or equivalent).</li>
+<li>Kubernetes / container orchestration (deployment, scaling, secrets/config, networking, load balancing) and Azure cloud architecture (AKS or Container Apps, Managed Identity, Key Vault, Monitor).</li>
+<li>Infrastructure as Code with Terraform: reusable modules, environment separation, remote state and locking, CI/CD integration, lifecycle management.</li>
+<li>Demonstrable responsibility for running a production service: monitoring, alerting, distributed tracing with OpenTelemetry, incident and problem management, patch and release management, latency and cost optimization against defined targets.</li>
+<li>Business trips to Ingolstadt</li>
+</ul>
+<p><strong>Nice to have Skills</strong></p>
+<ul>
+<li>Automotive or in-vehicle software background: MIB3 / E³ / SDV platforms, Android Automotive (AAOS) and AIDL interfaces, Viwi protocol, vehicle telemetry and configuration services, SOA / microservice / zonal E/E architectures.</li>
+<li>Experience with LLM evaluation and prompt regression practice: LangFuse, DeepEval, Ragas, PromptFlow; metrics such as faithfulness, hallucination rate, latency P95, WER/CER.</li>
+<li>ASR/TTS service integration at the streaming level (Azure Speech, Whisper, Cerence, Google TTS) and awareness of in-cabin speech conditions (noise, far-field microphones, multi-speaker).</li>
+<li>Emotion/sentiment APIs (HumeAI) and empathic dialogue design.</li>
+<li>Broader persistence experience: MongoDB (pymongo/beanie), CosmosDB, and a clear opinion on when each belongs in the picture.</li>
+<li>Semantic caching and token-cost optimization at fleet scale.</li>
+<li>Awareness of automotive quality, security and AI governance frameworks: A-SPICE, ISO/SAE 21434, TISAX, GDPR/privacy-by-design, EU AI Act implications.</li>
+<li>Experience taking over and stabilising a running system from a previous supplier (knowledge transfer, reverse-documenting an inherited codebase)</li>
+</ul>
+<p><strong>Languages:</strong></p>
+<p>English - C1 Fluent</p>
+</div>
+    </div>
+
+    <footer>
+        <a href="https://github.com/milad-rasouli">Created by Milad Rasouli</a>
+    </footer>
+</div>
+
+<script>
+    (function(){
+        const el = document.getElementById('createdAt');
+        if(!el) return;
+        const ts = Number(el.textContent) * 1000;
+        const d = new Date(ts);
+        el.textContent = d.toLocaleString();
+    })();
+</script>
+</body>
+</html>
