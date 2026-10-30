@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Robotics Engineer</title>
+    <style>
+        body{font-family:Inter, Arial, Helvetica, sans-serif;background:#f7fafc;color:#111;margin:0;padding:20px}
+        .wrap{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 8px 24px rgba(12,20,30,0.06)}
+        h1{margin:0 0 8px 0}
+        .meta{color:#6b7280;font-size:13px;margin-bottom:8px}
+        .apply{display:inline-block;background:#0ea5a6;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none}
+        .back{display:inline-block;margin-left:12px;color:#374151;text-decoration:none}
+        .section{margin-top:16px}
+        .apply-section {display: flex;align-items: center;gap: 12px;}
+        .apply-section .apply {margin-left: auto;}
+
+         
+        .desc {line-height:1.6;font-size:15px;color:#111;}
+        .desc h1,.desc h2,.desc h3 {margin-top:20px;margin-bottom:10px;}
+        .desc pre{background:#f8fafc;padding:12px;border-radius:6px;border:1px solid #eef2f7;overflow-x:auto}
+        .desc code{background:#f1f5f9;padding:2px 4px;border-radius:4px}
+        .desc ul{padding-left:20px;margin:8px 0}
+        .desc p{margin:10px 0}
+
+        footer{margin-top:18px;text-align:center;color:#94a3b8}
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Robotics Engineer</h1>
+    <div class="meta">prefix.dev • Berlin, Berlin, Germany • fulltime</div>
+
+
+    <div class="section apply-section">
+        <a class="back" href="../list1.html">Back to Home</a>
+        <a class="apply" href="https://www.linkedin.com/jobs/view/4478443679" target="_blank" rel="noopener">Apply</a>
+    </div>
+
+    <div class="section">
+        <strong>Remote:</strong> No •
+        <strong>Relocation:</strong> Yes
+    </div>
+
+    <div class="section">
+        <h3>Description</h3>
+        <div class="desc"><p><strong><strong>About us</strong></strong></p>
+<p>We build package management for the Conda ecosystem. Our open source tools (Pixi, rattler, rattler-build) are written in Rust and used by hundreds of thousands of developers. You'll find them in finance, at CERN, at biotech companies, and more and more in robotics. We also maintain RoboStack, which packages ROS for Conda so it runs on any OS from a single lockfile.</p>
+<p>The engineering team is spread across Europe (Netherlands, Germany, UK, Moldova). This new project is based in Berlin, and so is this role.</p>
+<p><strong><strong>The project</strong></strong></p>
+<p>We're starting a new product: fleet management for robots, built on Pixi. If every robot in a fleet runs a Pixi environment, deploying, updating and rolling back software across the fleet gets a lot easier. You describe what the fleet should run, and the robots get there, whether they sit in one lab or across several sites with bad connectivity.</p>
+<p>The robot-side agent and the coordination layer are written in Rust. Our goal is that robots, edge nodes and operators talk to each other peer to peer, so things keep working without a central server or a stable internet connection. Pixi handles environments, artifact distribution and atomic updates on the device. Operators use a web frontend (Next.js or Svelte) to see the fleet, follow deployments, read logs and control rollouts.</p>
+<p>The project is partially funded through Berlin's Pro FIT programme, meaning the role is on-site in our Berlin office.</p>
+<p><strong><strong>What you'll work on</strong></strong></p>
+<ul>
+<li>The on-robot agent in Rust: reconciling environments, reporting health, orchestrating updates</li>
+<li>The networking layer: peer discovery, sharing fleet state, distributing packages between robots</li>
+<li>The operator web UI and its connection to the Rust backend</li>
+<li>Testing on real hardware. We have robots in the office and partners running ROS 2 in the field</li>
+<li>Upstream changes to Pixi, rattler and RoboStack when the fleet work needs them</li>
+<li>Talking to users, writing docs, and helping decide what the product becomes</li>
+</ul>
+<p><strong><strong>What we're looking for</strong></strong></p>
+<p>You don't need years of experience. You do need solid fundamentals and the ability to pick things up quickly.</p>
+<ul>
+<li>Rust, or a strong background in C++ or Go and the wish to switch. Async Rust (tokio) helps</li>
+<li>Some frontend work with React/Next.js, Svelte or Vue. You don't have to be a designer, but you should care whether the UI is pleasant to use</li>
+<li>Some robotics background: ROS or ROS 2, a university project, a hobby robot, or a job at a robotics company</li>
+<li>Comfort with Linux, basic networking and the command line</li>
+<li>You like owning things end to end in a small team</li>
+<li>You live in Berlin or are willing to move here</li>
+</ul>
+<p>It's a plus if you know distributed systems or P2P (gossip protocols, CRDTs, content-addressed storage), have used conda or Pixi, have shipped software to devices in the field, or have contributed to open source. None of this is required.</p>
+<p><strong><strong>What we offer</strong></strong></p>
+<p>You'll build a new product from the start, together with the people who created Mamba, Pixi, rattler and RoboStack. A lot of your work will be open source and public. We pay a competitive Berlin salary, with 30 days of vacation, the hardware you want, a conference budget, and time for upstream open source work. We help with relocation within the EU.</p>
+</div>
+    </div>
+
+    <footer>
+        <a href="https://github.com/milad-rasouli">Created by Milad Rasouli</a>
+    </footer>
+</div>
+
+<script>
+    (function(){
+        const el = document.getElementById('createdAt');
+        if(!el) return;
+        const ts = Number(el.textContent) * 1000;
+        const d = new Date(ts);
+        el.textContent = d.toLocaleString();
+    })();
+</script>
+</body>
+</html>
