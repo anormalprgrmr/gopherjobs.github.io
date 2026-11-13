@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Senior Software Engineer, Networked Systems (m/f/d)</title>
+    <style>
+        body{font-family:Inter, Arial, Helvetica, sans-serif;background:#f7fafc;color:#111;margin:0;padding:20px}
+        .wrap{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 8px 24px rgba(12,20,30,0.06)}
+        h1{margin:0 0 8px 0}
+        .meta{color:#6b7280;font-size:13px;margin-bottom:8px}
+        .apply{display:inline-block;background:#0ea5a6;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none}
+        .back{display:inline-block;margin-left:12px;color:#374151;text-decoration:none}
+        .section{margin-top:16px}
+        .apply-section {display: flex;align-items: center;gap: 12px;}
+        .apply-section .apply {margin-left: auto;}
+
+         
+        .desc {line-height:1.6;font-size:15px;color:#111;}
+        .desc h1,.desc h2,.desc h3 {margin-top:20px;margin-bottom:10px;}
+        .desc pre{background:#f8fafc;padding:12px;border-radius:6px;border:1px solid #eef2f7;overflow-x:auto}
+        .desc code{background:#f1f5f9;padding:2px 4px;border-radius:4px}
+        .desc ul{padding-left:20px;margin:8px 0}
+        .desc p{margin:10px 0}
+
+        footer{margin-top:18px;text-align:center;color:#94a3b8}
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Senior Software Engineer, Networked Systems (m/f/d)</h1>
+    <div class="meta">TYTAN Technologies • Munich, Bavaria, Germany • fulltime</div>
+
+
+    <div class="section apply-section">
+        <a class="back" href="../list1.html">Back to Home</a>
+        <a class="apply" href="https://www.linkedin.com/jobs/view/4487478015" target="_blank" rel="noopener">Apply</a>
+    </div>
+
+    <div class="section">
+        <strong>Remote:</strong> No •
+        <strong>Relocation:</strong> Yes
+    </div>
+
+    <div class="section">
+        <h3>Description</h3>
+        <div class="desc"><p><strong>Job Description</strong>
+<strong>TYTAN Technologies</strong>
+The
+<strong>PACE</strong>
+is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by ownership, embrace challenges, and are energized by meaningful work. If you're motivated by impact and thrive in dynamic environments, you'll fit right in.</p>
+<p>At
+<strong>TYTAN</strong>
+, we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect European sovereignty.</p>
+<p>We are seeking an experienced and hands-on
+<strong>Senior Software Engineer, Networked Systems</strong>
+to join the Core team within our Platform Team. Everything we build is a node: from small embedded devices to full compute systems and ground infrastructure. Together they operate as one network, in the field and over denied, degraded and intermittent links. You design how this works end to end: how nodes find and connect to each other, how trust propagates, how they communicate, and how every node exposes what the application stack needs. And you build it: the network itself, the node agent that runs on every node, the node API and the SDK.</p>
+<p><strong>Your roadmap to make an impact</strong></p>
+<ul>
+<li>System design: Own the end-to-end design of how our systems connect and communicate: topology, links, transports, delivery semantics and failure behaviour. When a new requirement lands, such as operating a system beyond line of sight over LEO satellite or cellular links, you design how it works: latency budget, link selection and failover, security, and what keeps working when the link drops</li>
+<li>The network: Build it: addressing plans, routing, segmentation and multi-homing across tactical radio, cellular, satcom and wired links, with dynamic routing and link selection for nodes that move and links that fail</li>
+<li>Secure links: IPsec/IKEv2 or WireGuard overlays with certificate authentication from hardware-backed keys, including rekeying, NAT traversal and behaviour on link loss</li>
+<li>Trust: Design how trust propagates from production to the field: device identity, certificate lifecycle, mutual authentication, authorisation tiers, revocation and signed commands that keep working without backend connectivity</li>
+<li>Node agent: Design and build the agent that runs on every node and exposes identity, health, software state, connectivity and updates through one API, served locally, over the network and in compact form over constrained links. Devices too small to run it are represented through their parent node</li>
+<li>Node API and SDK: One resource model for every node type, versioned and backward compatible across a fleet that never updates all at once, with SDKs generated from the contract for the languages our teams use</li>
+<li>Discovery and directory: How nodes find each other with and without infrastructure, and a directory that survives restarts and shows what should exist versus what is present, at fleet scale without polling every node</li>
+<li>Communication: Build on proven middleware and transports instead of reinventing them, define delivery semantics per traffic class, and engineer QoS so command and control traffic survives congestion on constrained links</li>
+<li>Network as code: Configuration templated, version controlled, validated in CI and shipped as part of the system release</li>
+<li>Verification: Network emulation that reproduces measured field link profiles, fault injection in CI, and network test campaigns at test ranges and flight tests with root cause from packet captures</li>
+<li>Direction: Write the design documents and contracts that embedded, backend and application engineers build against, and review designs</li>
+</ul>
+<p><strong>Job Requirements</strong></p>
+<ul>
+<li>Degree in Computer Science, Electrical Engineering, Telecommunications or a related field, or equivalent experience</li>
+<li>5+ years building networked or distributed systems in production, combining software engineering with hands-on network engineering, including technical ownership of a core component other teams depend on</li>
+<li>Designed a networked system end to end, and can reason through a new connectivity scenario from first principles: topology, latency budget, failure modes and security</li>
+<li>Expert in Rust, Go or C++, working proficiency in Python, and comfortable reading and writing C++</li>
+<li>Strong networking across the stack: IP addressing and routing, UDP, TCP and QUIC internals, congestion control, multicast, NAT traversal, MTU and fragmentation; fluent with Wireshark and tcpdump</li>
+<li>Expert Linux networking: iproute2, policy routing, network namespaces, VRFs, bridges, VLANs, nftables, tc and netem</li>
+<li>Production experience with IPsec (strongSwan or libreswan) and WireGuard, including PKI-based authentication</li>
+<li>Routing: OSPF and BGP (ideally FRRouting or BIRD), and how latency, loss and link quality shape routing and protocol design in dynamic networks</li>
+<li>Applied security: PKI and certificate lifecycle, mTLS, hardware-backed keys (TPM or secure elements) and authorisation models</li>
+<li>Built services that run on devices: Linux daemons, systemd, local IPC and resource-constrained environments</li>
+<li>Experience with middleware such as DDS, ROS 2, Zenoh, ZeroMQ, NATS or gRPC, including discovery, flow control, serialisation and QoS</li>
+<li>API and contract design consumed by many teams: schema evolution, versioning and backward compatibility</li>
+<li>Written design documents that other teams implemented against</li>
+<li>Willingness to travel to test sites and flight tests (around 20%)</li>
+</ul>
+<p><strong>Nice to haves</strong></p>
+<ul>
+<li>Systems built for denied, degraded, intermittent or limited (DDIL) connectivity: defense, robotic fleets, autonomous vehicles, space</li>
+<li>Beyond-line-of-sight operation over LEO satellite, cellular or long-range radio links</li>
+<li>Integration of MANET or mesh radios (e.g. Silvus, Doodle Labs, Persistent Systems) and MANET routing such as OLSR or B.A.T.M.A.N.</li>
+<li>Network emulation with EMANE, CORE, ns-3 or Linux netem</li>
+<li>Time synchronisation with PTP/gPTP</li>
+<li>Replication and coordination (Raft, gossip, CRDTs, logical clocks)</li>
+<li>Embedded ARM targets, RTOS or mixed Linux and RTOS systems</li>
+<li>Tactical datalinks, defense crypto equipment or interoperability standards such as STANAG 4586</li>
+</ul>
+<p><strong><strong>Why TYTAN?</strong></strong></p>
+<ul>
+<li>Build technology with real operational impact: Develop autonomous defense systems designed to protect lives and strengthen Europe’s security</li>
+<li>Shape scalable defense capabilities: Work on solutions built for mass deployment, cost efficiency, resilience, and reliable production at scale</li>
+<li>Contribute to networked air defense: Help integrate our systems into multi-layered defense architectures alongside sensors, command systems, and effectors</li>
+<li>Develop for real-world operations: Build capabilities together with end users and improve them continuously based on direct operational feedback</li>
+<li>Move fast and take ownership: Work in a focused, high-performance team where decisions are made quickly and individual contributions have immediate impact</li>
+<li>Define a new generation of defense technology: Join early and help shape the products, engineering standards, culture, and direction of a fast-growing deep-tech company</li>
+<li>Work with an international mission-driven team: Collaborate with experienced specialists united by the goal of creating sovereign and effective security capabilities for Europe</li>
+</ul>
+<p><strong><strong>Our Benefits</strong></strong></p>
+<ul>
+<li>Virtual stock options: Participate in our success through virtual stock options (VSOPs) at the company's current valuation</li>
+<li>Monthly allowances: €106/month in flexible benefits including lunch discounts and EGYM Wellpass or shopping credit</li>
+<li>Regular health care events: Health check-ups, skin screenings, mental health workshops, and an annual vitamin infusion on us</li>
+<li>Referral bonus: Earn a reward when someone you refer joins the team</li>
+<li>Regular team events: On- and off-site activities to connect and celebrate together</li>
+<li>Corporate discounts: Exclusive employee discounts across a wide range of partner brands</li>
+<li>Flexibility : Flexible working hours and hybrid work model, plus a modern Munich office built for focus and collaboration</li>
+</ul>
+<p><strong>About us</strong>
+At TYTAN, it is more than just a job; it is about embracing autonomy, personal growth, and purpose. Make a lasting impact in the new era of defense! Join us to create a safer world for all.</p>
+<p>WE are an equal-opportunity employer committed to fairness and inclusivity. We do not prioritize any specific religion, gender, nationality, or background. Due to security clearance requirements, affiliations with countries listed under § 13 para. 1 no. 17 SÜG may affect the application process.</p>
+<p><strong>Please note that we currently do not offer visa sponsorship, so we’re only able to consider candidates who already have a valid work permit. All qualified applicants are hereby encouraged to apply.</strong></p>
+</div>
+    </div>
+
+    <footer>
+        <a href="https://github.com/milad-rasouli">Created by Milad Rasouli</a>
+    </footer>
+</div>
+
+<script>
+    (function(){
+        const el = document.getElementById('createdAt');
+        if(!el) return;
+        const ts = Number(el.textContent) * 1000;
+        const d = new Date(ts);
+        el.textContent = d.toLocaleString();
+    })();
+</script>
+</body>
+</html>
