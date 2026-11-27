@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Software engineer, AI model supply chain and package security</title>
+    <style>
+        body{font-family:Inter, Arial, Helvetica, sans-serif;background:#f7fafc;color:#111;margin:0;padding:20px}
+        .wrap{max-width:900px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 8px 24px rgba(12,20,30,0.06)}
+        h1{margin:0 0 8px 0}
+        .meta{color:#6b7280;font-size:13px;margin-bottom:8px}
+        .apply{display:inline-block;background:#0ea5a6;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none}
+        .back{display:inline-block;margin-left:12px;color:#374151;text-decoration:none}
+        .section{margin-top:16px}
+        .apply-section {display: flex;align-items: center;gap: 12px;}
+        .apply-section .apply {margin-left: auto;}
+
+         
+        .desc {line-height:1.6;font-size:15px;color:#111;}
+        .desc h1,.desc h2,.desc h3 {margin-top:20px;margin-bottom:10px;}
+        .desc pre{background:#f8fafc;padding:12px;border-radius:6px;border:1px solid #eef2f7;overflow-x:auto}
+        .desc code{background:#f1f5f9;padding:2px 4px;border-radius:4px}
+        .desc ul{padding-left:20px;margin:8px 0}
+        .desc p{margin:10px 0}
+
+        footer{margin-top:18px;text-align:center;color:#94a3b8}
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Software engineer, AI model supply chain and package security</h1>
+    <div class="meta">prefix.dev • Berlin, Berlin, Germany • fulltime</div>
+
+
+    <div class="section apply-section">
+        <a class="back" href="../list1.html">Back to Home</a>
+        <a class="apply" href="https://www.linkedin.com/jobs/view/4492676688" target="_blank" rel="noopener">Apply</a>
+    </div>
+
+    <div class="section">
+        <strong>Remote:</strong> No •
+        <strong>Relocation:</strong> Yes
+    </div>
+
+    <div class="section">
+        <h3>Description</h3>
+        <div class="desc"><p>We build fast, modern developer tools in Rust, and a surprising amount of serious software runs on them. Pixi, rattler and rattler-build are open source and used by hundreds of thousands of developers: quant teams in finance, physicists at CERN, biotech labs, and humanoid robot companies you've probably seen videos of. We are also core maintainers of conda-forge, one of the largest open source package ecosystems, and we maintain RoboStack, which gets ROS running on any OS from a single lockfile.</p>
+<p>When that much software flows through your tools, security stops being optional. Every package that ends up on a laptop, a server or a robot should be traceable back to the source and build that produced it. We're building that for conda today, and we want to extend it to AI models.</p>
+<p>The engineering team is spread across Europe (Netherlands, Germany, UK, Moldova). This work is based in Berlin, and so is this role.</p>
+<p><strong>The work</strong></p>
+<p>Robots increasingly run learned models: vision transformers, RL policies, LLMs. Today those models are usually copied onto machines as large opaque files, with little record of where they came from or what changed. We think models should be shipped like packages: versioned, signed, verifiable, and updated efficiently.</p>
+<p>You'll work on two related areas.</p>
+<p><strong>Package security.</strong>
+Signing and verification for conda packages with Sigstore, provenance from source to build to install, SBOMs, and mapping known vulnerabilities onto the packages people actually use. This work goes into Pixi, rattler and conda-forge, and is used by a lot of people.</p>
+<p><strong>AI models as packages.</strong>
+Taking the same ideas to model artifacts. That includes:</p>
+<ul>
+<li>A provenance chain from training through packaging to deployment, with signatures that can be verified offline on air-gapped robots</li>
+<li>A model SBOM format, building on CycloneDX's ML-BOM</li>
+<li>Delta updates between model versions (full models, fine-tunes, LoRA adapters, quantized variants), so robots don't download gigabytes for a small change</li>
+<li>Compression that combines model techniques (quantization, pruning, distillation) with what package managers already do well (zstd, content-addressable storage), tuned to the target hardware and network</li>
+<li>Managing models that get fine-tuned on the robot itself: tracking where those variants came from, validating them, and syncing them back</li>
+<li>Testing the whole pipeline end to end on real models and real hardware, and measuring latency, bandwidth and model quality</li>
+</ul>
+<p>A lot of this is new. Part of the job is figuring out which approaches work, measuring them honestly, and writing up what you found.</p>
+<p><strong>What we're looking for</strong></p>
+<p>You don't need years of experience. You do need solid fundamentals, curiosity, and the patience to get security details right.</p>
+<ul>
+<li>Rust, or a strong background in C++, Go or Python and the wish to switch</li>
+<li>Interest in software supply chain security. Bonus if you've worked with Sigstore (Cosign, Rekor, Fulcio), TUF, in-toto, SLSA or SBOM formats</li>
+<li>Familiarity with ML in practice: you've trained or fine-tuned a model, know what a LoRA adapter or a quantized model is, and have used PyTorch or similar</li>
+<li>Basic understanding of cryptography as an engineer: signatures, hashes, certificates, and what they do and don't guarantee</li>
+<li>You like measuring things and are honest about results that don't work out</li>
+<li>You live in Berlin or are willing to move here</li>
+</ul>
+<p>It's a plus if you know package managers from the inside, have worked on model compression or edge inference, have robotics experience, or have contributed to open source. None of this is required.</p>
+<p><strong>What we offer</strong></p>
+<p>You'll work on problems few people have solved yet, together with the people who created Mamba, Pixi, rattler and RoboStack. Most of your work will be open source and used by a large community from day one. We pay a competitive Berlin salary, with 30 days of vacation, the hardware you want, a conference budget, and time for upstream open source work. We help with relocation within the EU.</p>
+</div>
+    </div>
+
+    <footer>
+        <a href="https://github.com/milad-rasouli">Created by Milad Rasouli</a>
+    </footer>
+</div>
+
+<script>
+    (function(){
+        const el = document.getElementById('createdAt');
+        if(!el) return;
+        const ts = Number(el.textContent) * 1000;
+        const d = new Date(ts);
+        el.textContent = d.toLocaleString();
+    })();
+</script>
+</body>
+</html>
